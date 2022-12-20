@@ -20,7 +20,7 @@ body {
     background-color: var(--light);
 }
 
-.mb-logo img {
+.mb-logo {
     width: 105px;
     height: 45px;
 }
@@ -341,6 +341,16 @@ body {
     font-weight: 700;
     border-radius: 5px;
     font-size: 14px;
+}
+
+.footer-logo {
+    width: 75px;
+    height: 38px;
+}
+
+.dt-footer-logo {
+    width: 170px;
+    height: 88px;
 }
 
 .footer-phone {
@@ -971,7 +981,7 @@ input::placeholder {
         color: var(--dark) !important;
     }
 
-    .mb-logo img {
+    .mb-logo {
         width: 167px;
         height: 69px;
     }
